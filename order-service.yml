@@ -1,1 +1,4 @@
-
+services:
+ inventory:
+  url: http://localhost:8082
+   
